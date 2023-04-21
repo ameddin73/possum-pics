@@ -1,7 +1,7 @@
 {
   "name": "possum",
   "version": "1.0.0",
-  "description": "***REMOVED*** ***REMOVED*** ***REMOVED*** ***REMOVED*** ***REMOVED*** ***REMOVED***",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -14,4 +14,3 @@
     "twitter": "^1.7.1"
   }
 }
-
