@@ -1,0 +1,17 @@
+{
+  "name": "possum",
+  "version": "1.0.0",
+***REMOVED***
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "ameddin73@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "twilio": "^3.51.0",
+    "twitter": "^1.7.1"
+  }
+}
+
